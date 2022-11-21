@@ -1,0 +1,1 @@
+# apply_common_function_in_SQL
